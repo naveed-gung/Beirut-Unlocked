@@ -3,8 +3,8 @@
   <h1>🌟 Beirut Unlocked 🌟</h1>
   <p><i>Your digital key to Lebanon's vibrant capital</i></p>
   
-  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/beirut-unlocked)
-  [![Beirut](https://img.shields.io/badge/Discover-Beirut-blue.svg)](https://github.com/yourusername/beirut-unlocked)
+  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/naveed-gung/beirut-unlocked)
+  [![Beirut](https://img.shields.io/badge/Discover-Beirut-blue.svg)](https://github.com/naveed-gung/beirut-unlocked)
 </div>
 
 ---
@@ -31,7 +31,7 @@ Beirut Unlocked features a modern, frosted-glass design that reflects the city's
 
 ## 🚀 Quick Start
 1. Clone this treasure map:
-   git clone https://github.com/yourusername/beirut-unlocked.git
+   git clone https://github.com/naveed-gung/beirut-unlocked.git
 2. Open `index.html` in your browser
 3. Start exploring Beirut!
 
